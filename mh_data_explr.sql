@@ -4,7 +4,7 @@
 ------------------------------------------------------------------------
 
 --The following code contains SQL queries aimed to explore data from 2 tables: 
---                              a) Mental Illesses Prevalence
+--                              a) Mental Illnesses Prevalence
 --                              b) DALY rates representing burden from each mental illess
 
 -- After initial inspections, I take closer looks at the data from specific countries. 
